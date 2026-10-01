@@ -19,5 +19,6 @@
   "ResourceOrderSettings":[
     {"name":"PauseMenuUI","order":2,"path":"objects/PauseMenuUI/PauseMenuUI.yy",},
     {"name":"ProtoPlayerLRhettLesh","order":1,"path":"objects/ProtoPlayerLRhettLesh/ProtoPlayerLRhettLesh.yy",},
+    {"name":"ProtoPlayerSprite","order":1,"path":"sprites/ProtoPlayerSprite/ProtoPlayerSprite.yy",},
   ],
 }
